@@ -1,5 +1,5 @@
 # Doctoral researcher in Computational Neuroscience
-- Currently pursuing a PhD in decoding speech from ECoG brain recorded neural data
+Currently pursuing a PhD in decoding speech from ECoG brain recorded neural data
 
 ## Work Experience
 - PhD (2021-2024)
